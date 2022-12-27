@@ -1,0 +1,11 @@
+#deletealert{
+    display: none;
+    margin: 15px;
+}
+#delete-btn{
+    color: black; 
+}
+.add-patient{
+    color: white;
+    background-color: rgb(31, 31, 31);
+  }

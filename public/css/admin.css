@@ -1,0 +1,15 @@
+#alert{
+    display: none;
+    margin: 15px;
+
+}
+img{
+    width: 80%;
+    height: 85vh;
+}
+.add-patient{
+  color: white;
+  background-color: rgb(31, 31, 31);
+    
+}
+
